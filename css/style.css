@@ -1,0 +1,52 @@
+form, a{
+    text-decoration: none;
+    color:black;
+    padding-top: 30px !important;
+}
+.bg-danger{
+    background-color: #D50032 !important;
+}
+.bg-dangerr{
+    background-color: #8E0031 !important;
+}
+.bg-successs{
+    background-color:  #06CE8D !important;
+}
+.bg-success3{
+    background-color:  #198754 !important;
+}
+.bg-info{
+    background-color: #32462F !important;
+}
+@media screen and (max-width: 426px) {
+    .px-5{
+        padding: 0px !important;
+    }
+    .w-50{
+        width:100% !important;;
+        padding-bottom: 20px !important;
+    }
+    .fa-2x{
+        padding-right: 10px !important;
+    }
+}
+@media screen and (max-width: 769px) {
+    .px-5, .px-4, .px-3, .px-2 {
+        padding: 0px !important;
+    }
+    img{
+        align-items: center !important;
+    }
+    .pt-5, .pb-5{
+        padding: 0px !important;
+    }
+    .display-4{
+        font-size: 30px !important;
+        padding: 0px !important
+    }
+ .py-4, .py-3 {
+        padding: 5px !important;
+    }
+   
+    
+}
